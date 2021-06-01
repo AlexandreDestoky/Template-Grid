@@ -1,18 +1,18 @@
 {
     "version": 3,
-    "mappings": "ACgBA,AAAA,CAAC;AACD,CAAC,AAAA,QAAQ;AACT,CAAC,AAAA,OAAO,CAAC;EACP,MAAM,EAAC,CAAC;EACR,OAAO,EAAC,CAAC;EACT,UAAU,EAAE,OAAO;CACpB;;AAED,AAAA,IAAI,CAAC;EACH,UAAU,EAAE,UAAU;EACtB,SAAS,EAAE,KAAK;EAChB,WAAW,EAdE,QAAQ,EAAE,UAAU;EAejC,KAAK,EAnBa,OAAO;EAoBzB,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,GAAG;CACjB",
+    "mappings": "ACgBA,AAAA,CAAC;AACD,CAAC,AAAA,QAAQ;AACT,CAAC,AAAA,OAAO,CAAC;EACP,MAAM,EAAC,CAAC;EACR,OAAO,EAAC,CAAC;EACT,UAAU,EAAE,OAAO;CACpB;;AAED,AAAA,IAAI,CAAC;EACH,UAAU,EAAE,UAAU;EACtB,SAAS,EAAE,KAAK;EAChB,WAAW,EAdE,QAAQ,EAAE,UAAU;EAejC,KAAK,EAnBa,OAAO;EAoBzB,WAAW,EAAE,GAAG;EAChB,WAAW,EAAE,GAAG;CACjB;;AAED,AAAA,UAAU,CAAC;EACT,OAAO,EAAE,IAAI;EACb,kBAAkB,EAAE,IAAI,CAAC,WAAW,CAAC,IAAI,CAAC,sBAAqB;CAChE;;AEpCD,AAAA,QAAQ,CAAC;EACP,gBAAgB,EFAF,OAAO;CECtB;;ACFD,AAAA,OAAO,CAAC;EACN,gBAAgB,EHQE,OAAO;CGP1B;;ACFD,AAAA,SAAS,CAAC;EACR,gBAAgB,EJGA,OAAO;CIFxB;;ACFD,AAAA,SAAS,CAAC;EACR,gBAAgB,ELMG,IAAI;CKLxB;;ACDE,AAAD,gBAAW,CAAC;EACV,gBAAgB,ENDJ,OAAO;CMEpB;;AACA,AAAD,eAAU,CAAC;EACT,gBAAgB,ENCC,OAAO;CMAzB;;ACNH,AAAA,MAAM,CAAC;EACL,gBAAgB,EPGA,OAAO;COFxB;;ACFD,AAAA,QAAQ,CAAC;EACP,gBAAgB,ERQE,OAAO;CQP1B;;ACFD,AAAA,OAAO,CAAC;EACN,gBAAgB,ETGA,OAAO;CSFxB",
     "sources": [
         "../sass/main.scss",
         "../sass/_base.scss",
         "../sass/_typography.scss",
-        "../sass/_sidebar.scss",
-        "../sass/_header.scss",
-        "../sass/_realtors.scss",
-        "../sass/_features.scss",
-        "../sass/_story.scss",
-        "../sass/_homes.scss",
-        "../sass/_gallery.scss",
-        "../sass/_footer.scss"
+        "../sass/components/_sidebar.scss",
+        "../sass/components/_header.scss",
+        "../sass/components/_realtors.scss",
+        "../sass/components/_features.scss",
+        "../sass/components/_story.scss",
+        "../sass/components/_homes.scss",
+        "../sass/components/_gallery.scss",
+        "../sass/components/_footer.scss"
     ],
     "names": [],
     "file": "main.css"
